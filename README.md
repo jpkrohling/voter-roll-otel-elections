@@ -7,7 +7,9 @@ The `voter-roll.csv` file in this repository was obtained in the following manne
 1. Go to the "[Developer Activity Counts by Repository group](https://opentelemetry.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1)" dashboard
 2. Select "Last year" as the time range
 3. On the data panel, open the drop-down menu and click "Edit". 
+
 ![image](https://user-images.githubusercontent.com/13387/193104317-f392ce5c-282c-4810-8898-9c54a672138d.png)
+
 4. Use the query from the `query.sql` file.
 5. Download the CSV file as `voter-roll.csv`
 
